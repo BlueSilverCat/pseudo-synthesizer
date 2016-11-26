@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "pseudo-synthesizer",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "pseudo-synthesizer:toggle"
+            },
+            {
+              "label": "Analyser",
+              "command": "pseudo-synthesizer:analyser"
+            },
+            {
+              "label": "Start auto play",
+              "command": "pseudo-synthesizer:startAutoPlay"
+            },
+            {
+              "label": "Stop auto play",
+              "command": "pseudo-synthesizer:stopAutoPlay"
+            },
+            {
+              "label": "Settings",
+              "command": "pseudo-synthesizer:settings"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

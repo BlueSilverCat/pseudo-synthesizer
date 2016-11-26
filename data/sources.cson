@@ -1,0 +1,551 @@
+commonPath: "" # if "", replace to default ".../.atom/packages/pseudo-synthesizer/data/source"
+sourceFiles: [
+  #start-1
+  {
+    name: "C-1"
+    fileName: "C-1.ogg"
+  }
+  {
+    name: "C#-1"
+    fileName: "C#-1.ogg"
+  }
+  {
+    name: "D-1"
+    fileName: "D-1.ogg"
+  }
+  {
+    name: "D#-1"
+    fileName: "D#-1.ogg"
+  }
+  {
+    name: "E-1"
+    fileName: "E-1.ogg"
+  }
+  {
+    name: "F-1"
+    fileName: "F-1.ogg"
+  }
+  {
+    name: "F#-1"
+    fileName: "F#-1.ogg"
+  }
+  {
+    name: "G-1"
+    fileName: "G-1.ogg"
+  }
+  {
+    name: "G#-1"
+    fileName: "G#-1.ogg"
+  }
+  {
+    name: "A-1"
+    fileName: "A-1.ogg"
+  }
+  {
+    name: "A#-1"
+    fileName: "A#-1.ogg"
+  }
+  {
+    name: "B-1"
+    fileName: "B-1.ogg"
+  }
+  #start0
+  {
+    name: "C0"
+    fileName: "C0.ogg"
+  }
+  {
+    name: "C#0"
+    fileName: "C#0.ogg"
+  }
+  {
+    name: "D0"
+    fileName: "D0.ogg"
+  }
+  {
+    name: "D#0"
+    fileName: "D#0.ogg"
+  }
+  {
+    name: "E0"
+    fileName: "E0.ogg"
+  }
+  {
+    name: "F0"
+    fileName: "F0.ogg"
+  }
+  {
+    name: "F#0"
+    fileName: "F#0.ogg"
+  }
+  {
+    name: "G0"
+    fileName: "G0.ogg"
+  }
+  {
+    name: "G#0"
+    fileName: "G#0.ogg"
+  }
+  {
+    name: "A0"
+    fileName: "A0.ogg"
+  }
+  {
+    name: "A#0"
+    fileName: "A#0.ogg"
+  }
+  {
+    name: "B0"
+    fileName: "B0.ogg"
+  }
+  #end0
+  #start1
+  {
+    name: "C1"
+    fileName: "C1.ogg"
+  }
+  {
+    name: "C#1"
+    fileName: "C#1.ogg"
+  }
+  {
+    name: "D1"
+    fileName: "D1.ogg"
+  }
+  {
+    name: "D#1"
+    fileName: "D#1.ogg"
+  }
+  {
+    name: "E1"
+    fileName: "E1.ogg"
+  }
+  {
+    name: "F1"
+    fileName: "F1.ogg"
+  }
+  {
+    name: "F#1"
+    fileName: "F#1.ogg"
+  }
+  {
+    name: "G1"
+    fileName: "G1.ogg"
+  }
+  {
+    name: "G#1"
+    fileName: "G#1.ogg"
+  }
+  {
+    name: "A1"
+    fileName: "A1.ogg"
+  }
+  {
+    name: "A#1"
+    fileName: "A#1.ogg"
+  }
+  {
+    name: "B1"
+    fileName: "B1.ogg"
+  }
+  #end1
+  #start2
+  {
+    name: "C2"
+    fileName: "C2.ogg"
+  }
+  {
+    name: "C#2"
+    fileName: "C#2.ogg"
+  }
+  {
+    name: "D2"
+    fileName: "D2.ogg"
+  }
+  {
+    name: "D#2"
+    fileName: "D#2.ogg"
+  }
+  {
+    name: "E2"
+    fileName: "E2.ogg"
+  }
+  {
+    name: "F2"
+    fileName: "F2.ogg"
+  }
+  {
+    name: "F#2"
+    fileName: "F#2.ogg"
+  }
+  {
+    name: "G2"
+    fileName: "G2.ogg"
+  }
+  {
+    name: "G#2"
+    fileName: "G#2.ogg"
+  }
+  {
+    name: "A2"
+    fileName: "A2.ogg"
+  }
+  {
+    name: "A#2"
+    fileName: "A#2.ogg"
+  }
+  {
+    name: "B2"
+    fileName: "B2.ogg"
+  }
+  #end2
+  #start3
+  {
+    name: "C3"
+    fileName: "C3.ogg"
+  }
+  {
+    name: "C#3"
+    fileName: "C#3.ogg"
+  }
+  {
+    name: "D3"
+    fileName: "D3.ogg"
+  }
+  {
+    name: "D#3"
+    fileName: "D#3.ogg"
+  }
+  {
+    name: "E3"
+    fileName: "E3.ogg"
+  }
+  {
+    name: "F3"
+    fileName: "F3.ogg"
+  }
+  {
+    name: "F#3"
+    fileName: "F#3.ogg"
+  }
+  {
+    name: "G3"
+    fileName: "G3.ogg"
+  }
+  {
+    name: "G#3"
+    fileName: "G#3.ogg"
+  }
+  {
+    name: "A3"
+    fileName: "A3.ogg"
+  }
+  {
+    name: "A#3"
+    fileName: "A#3.ogg"
+  }
+  {
+    name: "B3"
+    fileName: "B3.ogg"
+  }
+  #end3
+  #start4
+  {
+    name: "C4"
+    fileName: "C4.ogg"
+  }
+  {
+    name: "C#4"
+    fileName: "C#4.ogg"
+  }
+  {
+    name: "D4"
+    fileName: "D4.ogg"
+  }
+  {
+    name: "D#4"
+    fileName: "D#4.ogg"
+  }
+  {
+    name: "E4"
+    fileName: "E4.ogg"
+  }
+  {
+    name: "F4"
+    fileName: "F4.ogg"
+  }
+  {
+    name: "F#4"
+    fileName: "F#4.ogg"
+  }
+  {
+    name: "G4"
+    fileName: "G4.ogg"
+  }
+  {
+    name: "G#4"
+    fileName: "G#4.ogg"
+  }
+  {
+    name: "A4"
+    fileName: "A4.ogg"
+  }
+  {
+    name: "A#4"
+    fileName: "A#4.ogg"
+  }
+  {
+    name: "B4"
+    fileName: "B4.ogg"
+  }
+  #end4
+  #start5
+  {
+    name: "C5"
+    fileName: "C5.ogg"
+  }
+  {
+    name: "C#5"
+    fileName: "C#5.ogg"
+  }
+  {
+    name: "D5"
+    fileName: "D5.ogg"
+  }
+  {
+    name: "D#5"
+    fileName: "D#5.ogg"
+  }
+  {
+    name: "E5"
+    fileName: "E5.ogg"
+  }
+  {
+    name: "F5"
+    fileName: "F5.ogg"
+  }
+  {
+    name: "F#5"
+    fileName: "F#5.ogg"
+  }
+  {
+    name: "G5"
+    fileName: "G5.ogg"
+  }
+  {
+    name: "G#5"
+    fileName: "G#5.ogg"
+  }
+  {
+    name: "A5"
+    fileName: "A5.ogg"
+  }
+  {
+    name: "A#5"
+    fileName: "A#5.ogg"
+  }
+  {
+    name: "B5"
+    fileName: "B5.ogg"
+  }
+  #end5
+  #start6
+  {
+    name: "C6"
+    fileName: "C6.ogg"
+  }
+  {
+    name: "C#6"
+    fileName: "C#6.ogg"
+  }
+  {
+    name: "D6"
+    fileName: "D6.ogg"
+  }
+  {
+    name: "D#6"
+    fileName: "D#6.ogg"
+  }
+  {
+    name: "E6"
+    fileName: "E6.ogg"
+  }
+  {
+    name: "F6"
+    fileName: "F6.ogg"
+  }
+  {
+    name: "F#6"
+    fileName: "F#6.ogg"
+  }
+  {
+    name: "G6"
+    fileName: "G6.ogg"
+  }
+  {
+    name: "G#6"
+    fileName: "G#6.ogg"
+  }
+  {
+    name: "A6"
+    fileName: "A6.ogg"
+  }
+  {
+    name: "A#6"
+    fileName: "A#6.ogg"
+  }
+  {
+    name: "B6"
+    fileName: "B6.ogg"
+  }
+  #end6
+  #start7
+  {
+    name: "C7"
+    fileName: "C7.ogg"
+  }
+  {
+    name: "C#7"
+    fileName: "C#7.ogg"
+  }
+  {
+    name: "D7"
+    fileName: "D7.ogg"
+  }
+  {
+    name: "D#7"
+    fileName: "D#7.ogg"
+  }
+  {
+    name: "E7"
+    fileName: "E7.ogg"
+  }
+  {
+    name: "F7"
+    fileName: "F7.ogg"
+  }
+  {
+    name: "F#7"
+    fileName: "F#7.ogg"
+  }
+  {
+    name: "G7"
+    fileName: "G7.ogg"
+  }
+  {
+    name: "G#7"
+    fileName: "G#7.ogg"
+  }
+  {
+    name: "A7"
+    fileName: "A7.ogg"
+  }
+  {
+    name: "A#7"
+    fileName: "A#7.ogg"
+  }
+  {
+    name: "B7"
+    fileName: "B7.ogg"
+  }
+  #end7
+  #start8
+  {
+    name: "C8"
+    fileName: "C8.ogg"
+  }
+  {
+    name: "C#8"
+    fileName: "C#8.ogg"
+  }
+  {
+    name: "D8"
+    fileName: "D8.ogg"
+  }
+  {
+    name: "D#8"
+    fileName: "D#8.ogg"
+  }
+  {
+    name: "E8"
+    fileName: "E8.ogg"
+  }
+  {
+    name: "F8"
+    fileName: "F8.ogg"
+  }
+  {
+    name: "F#8"
+    fileName: "F#8.ogg"
+  }
+  {
+    name: "G8"
+    fileName: "G8.ogg"
+  }
+  {
+    name: "G#8"
+    fileName: "G#8.ogg"
+  }
+  {
+    name: "A8"
+    fileName: "A8.ogg"
+  }
+  {
+    name: "A#8"
+    fileName: "A#8.ogg"
+  }
+  {
+    name: "B8"
+    fileName: "B8.ogg"
+  }
+  #end8
+  #start9
+  {
+    name: "C9"
+    fileName: "C9.ogg"
+  }
+  {
+    name: "C#9"
+    fileName: "C#9.ogg"
+  }
+  {
+    name: "D9"
+    fileName: "D9.ogg"
+  }
+  {
+    name: "D#9"
+    fileName: "D#9.ogg"
+  }
+  {
+    name: "E9"
+    fileName: "E9.ogg"
+  }
+  {
+    name: "F9"
+    fileName: "F9.ogg"
+  }
+  {
+    name: "F#9"
+    fileName: "F#9.ogg"
+  }
+  {
+    name: "G9"
+    fileName: "G9.ogg"
+  }
+  #{
+  #  name: "G#9"
+  #  fileName: "G#9.ogg"
+  #}
+  #{
+  #  name: "A9"
+  #  fileName: "A9.ogg"
+  #}
+  #{
+  #  name: "A#9"
+  #  fileName: "A#9.ogg"
+  #}
+  #{
+  #  name: "B9"
+  #  fileName: "B9.ogg"
+  #}
+]

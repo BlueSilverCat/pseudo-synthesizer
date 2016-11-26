@@ -1,0 +1,78 @@
+commonPath: "" # if "", replace to default ".../.atom/packages/pseudo-synthesizer/data/ir"
+impulseResponses: [
+  #
+  {
+    description: "Empty Apartment Bedroom"
+    fileName: "empty_apartment_bedroom_06.ogg"
+  }
+  #
+  {
+    description: "St. George's Episcopal Church far"
+    fileName: "st_georges_far.ogg"
+  }
+  {
+    description: "St. George's Episcopal Church medium"
+    fileName: "st_georges_medium.ogg"
+  }
+  {
+    description: "St. George's Episcopal Church close"
+    fileName: "st_georges_close.ogg"
+  }
+  #
+  {
+    description: "1st Baptist Nashville close"
+    fileName: "1st_baptist_nashville_far_close.ogg"
+  }
+  {
+    description: "1st Baptist Nashville wide"
+    fileName: "1st_baptist_nashville_far_wide.ogg"
+  }
+  {
+    description: "1st Baptist Nashville balcony"
+    fileName: "1st_baptist_nashville_balcony.ogg"
+  }
+  #
+  {
+    description: "Domestic Living Room 1"
+    fileName: "living_room_1.ogg"
+  }
+  {
+    description: "Domestic Living Room 2"
+    fileName: "living_room_2.ogg"
+  }
+  {
+    description: "Domestic Living Room bedroom"
+    fileName: "living_room_in_bedroom_1.ogg"
+  }
+  #
+  {
+    description: "Saint Lawrence Church Molenbeek-Wersbeek Belgium"
+    fileName: "ir_church_saint-laurentius_molenbeek_bekkevoort_belgium.ogg"
+  }
+  #
+  {
+    description: "Basement 1"
+    fileName: "s1.ogg"
+  }
+  {
+    description: "Basement 2"
+    fileName: "s2.ogg"
+  }
+  {
+    description: "Basement 3"
+    fileName: "s3.ogg"
+  }
+  {
+    description: "Basement 4"
+    fileName: "s4.ogg"
+  }
+  {
+    description: "Basement 5"
+    fileName: "s5.ogg"
+  }
+  {
+    description: "Basement 6"
+    fileName: "s6.ogg"
+  }
+
+]

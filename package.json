@@ -1,0 +1,22 @@
+{
+  "name": "pseudo-synthesizer",
+  "main": "./lib/pseudo-synthesizer",
+  "version": "0.0.0",
+  "description": "Write code, make music. What sound is your code?",
+  "keywords": [
+    "music",
+    "synthesizer"
+  ],
+  "activationCommands": {
+    "atom-workspace": "pseudo-synthesizer:toggle"
+  },
+  "repository": "https://github.com/atom/pseudo-synthesizer",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.12.5 <2.0.0"
+  },
+  "dependencies": {
+    "cson": "^3.0.2",
+    "jszip": "^3.1.3"
+  }
+}

@@ -1,0 +1,589 @@
+keyBinds: [
+  #start-1
+  {
+    name: "C-1"
+    keyCode: -1
+  }
+  {
+    name: "C#-1"
+    keyCode: -1
+  }
+  {
+    name: "D-1"
+    keyCode: -1
+  }
+  {
+    name: "D#-1"
+    keyCode: -1
+  }
+  {
+    name: "E-1"
+    keyCode: -1
+  }
+  {
+    name: "F-1"
+    keyCode: -1
+  }
+  {
+    name: "F#-1"
+    keyCode: -1
+  }
+  {
+    name: "G-1"
+    keyCode: -1
+  }
+  {
+    name: "G#-1"
+    keyCode: -1
+  }
+  {
+    name: "A-1"
+    keyCode: -1
+  }
+  {
+    name: "A#-1"
+    keyCode: -1
+  }
+  {
+    name: "B-1"
+    keyCode: -1
+  }
+  #start0
+  {
+    name: "C0"
+    keyCode: -1
+  }
+  {
+    name: "C#0"
+    keyCode: -1
+  }
+  {
+    name: "D0"
+    keyCode: -1
+  }
+  {
+    name: "D#0"
+    keyCode: -1
+  }
+  {
+    name: "E0"
+    keyCode: -1
+  }
+  {
+    name: "F0"
+    keyCode: -1
+  }
+  {
+    name: "F#0"
+    keyCode: -1
+  }
+  {
+    name: "G0"
+    keyCode: -1
+  }
+  {
+    name: "G#0"
+    keyCode: -1
+  }
+  {
+    name: "A0"
+    keyCode: -1
+  }
+  {
+    name: "A#0"
+    keyCode: -1
+  }
+  {
+    name: "B0"
+    keyCode: -1
+  }
+  #start1
+  {
+    name: "C1"
+    keyCode: 192
+  }
+  {
+    name: "C#1"
+    keyCode: 49
+  }
+  {
+    name: "D1"
+    keyCode: 50
+  }
+  {
+    name: "D#1"
+    keyCode: 51
+  }
+  {
+    name: "E1"
+    keyCode: 52
+  }
+  {
+    name: "F1"
+    keyCode: 53
+  }
+  {
+    name: "F#1"
+    keyCode: 54
+  }
+  {
+    name: "G1"
+    keyCode: 55
+  }
+  {
+    name: "G#1"
+    keyCode: 56
+  }
+  {
+    name: "A1"
+    keyCode: 57
+  }
+  {
+    name: "A#1"
+    keyCode: 48
+  }
+  {
+    name: "B1"
+    keyCode: 189
+  }
+  #start2
+  {
+    name: "C2"
+    keyCode: 81
+  }
+  {
+    name: "C#2"
+    keyCode: 87
+  }
+  {
+    name: "D2"
+    keyCode: 69
+  }
+  {
+    name: "D#2"
+    keyCode: 82
+  }
+  {
+    name: "E2"
+    keyCode: 84
+  }
+  {
+    name: "F2"
+    keyCode: 89
+  }
+  {
+    name: "F#2"
+    keyCode: 85
+  }
+  {
+    name: "G2"
+    keyCode: 73
+  }
+  {
+    name: "G#2"
+    keyCode: 79
+  }
+  {
+    name: "A2"
+    keyCode: 80
+  }
+  {
+    name: "A#2"
+    keyCode: 219
+  }
+  {
+    name: "B2"
+    keyCode: 221
+  }
+  #start3
+  {
+    name: "C3"
+    keyCode: 65
+  }
+  {
+    name: "C#3"
+    keyCode: 83
+  }
+  {
+    name: "D3"
+    keyCode: 68
+  }
+  {
+    name: "D#3"
+    keyCode: 70
+  }
+  {
+    name: "E3"
+    keyCode: 71
+  }
+  {
+    name: "F3"
+    keyCode: 72
+  }
+  {
+    name: "F#3"
+    keyCode: 74
+  }
+  {
+    name: "G3"
+    keyCode: 75
+  }
+  {
+    name: "G#3"
+    keyCode: 76
+  }
+  {
+    name: "A3"
+    keyCode: 186
+  }
+  {
+    name: "A#3"
+    keyCode: 222
+  }
+  {
+    name: "B3"
+    keyCode: 220
+  }
+  #start4
+  {
+    name: "C4"
+    keyCode: 90
+  }
+  {
+    name: "C#4"
+    keyCode: 88
+  }
+  {
+    name: "D4"
+    keyCode: 67
+  }
+  {
+    name: "D#4"
+    keyCode: 86
+  }
+  {
+    name: "E4"
+    keyCode: 66
+  }
+  {
+    name: "F4"
+    keyCode: 78
+  }
+  {
+    name: "F#4"
+    keyCode: 77
+  }
+  {
+    name: "G4"
+    keyCode: 188
+  }
+  {
+    name: "G#4"
+    keyCode: 190
+  }
+  {
+    name: "A4"
+    keyCode: 191
+  }
+  {
+    name: "A#4"
+    keyCode: 187
+  }
+  {
+    name: "B4"
+    keyCode: -1 #193
+  }
+  #start5 shift
+  {
+    name: "C5"
+    keyCode: 192
+    shift: true
+  }
+  {
+    name: "C#5"
+    keyCode: 49
+    shift: true
+  }
+  {
+    name: "D5"
+    keyCode: 50
+    shift: true
+  }
+  {
+    name: "D#5"
+    keyCode: 51
+    shift: true
+  }
+  {
+    name: "E5"
+    keyCode: 52
+    shift: true
+  }
+  {
+    name: "F5"
+    keyCode: 53
+    shift: true
+  }
+  {
+    name: "F#5"
+    keyCode: 54
+    shift: true
+  }
+  {
+    name: "G5"
+    keyCode: 55
+    shift: true
+  }
+  {
+    name: "G#5"
+    keyCode: 56
+    shift: true
+  }
+  {
+    name: "A5"
+    keyCode: 57
+    shift: true
+  }
+  {
+    name: "A#5"
+    keyCode: 48
+    shift: true
+  }
+  {
+    name: "B5"
+    keyCode: 189
+    shift: true
+  }
+  #start6 shift
+  {
+    name: "C6"
+    keyCode: 81
+    shift: true
+  }
+  {
+    name: "C#6"
+    keyCode: 87
+    shift: true
+  }
+  {
+    name: "D6"
+    keyCode: 69
+    shift: true
+  }
+  {
+    name: "D#6"
+    keyCode: 82
+    shift: true
+  }
+  {
+    name: "E6"
+    keyCode: 84
+    shift: true
+  }
+  {
+    name: "F6"
+    keyCode: 89
+    shift: true
+  }
+  {
+    name: "F#6"
+    keyCode: 85
+    shift: true
+  }
+  {
+    name: "G6"
+    keyCode: 73
+    shift: true
+  }
+  {
+    name: "G#6"
+    keyCode: 79
+    shift: true
+  }
+  {
+    name: "A6"
+    keyCode: 80
+    shift: true
+  }
+  {
+    name: "A#6"
+    keyCode: 219
+    shift: true
+  }
+  {
+    name: "B6"
+    keyCode: 221
+    shift: true
+  }
+  #start7
+  {
+    name: "C7"
+    keyCode: 65
+    shift: true
+  }
+  {
+    name: "C#7"
+    keyCode: 83
+    shift: true
+  }
+  {
+    name: "D7"
+    keyCode: 68
+    shift: true
+  }
+  {
+    name: "D#7"
+    keyCode: 70
+    shift: true
+  }
+  {
+    name: "E7"
+    keyCode: 71
+    shift: true
+  }
+  {
+    name: "F7"
+    keyCode: 72
+    shift: true
+  }
+  {
+    name: "F#7"
+    keyCode: 74
+    shift: true
+  }
+  {
+    name: "G7"
+    keyCode: 75
+    shift: true
+  }
+  {
+    name: "G#7"
+    keyCode: 76
+    shift: true
+  }
+  {
+    name: "A7"
+    keyCode: 186
+    shift: true
+  }
+  {
+    name: "A#7"
+    keyCode: 222
+    shift: true
+  }
+  {
+    name: "B7"
+    keyCode: 220
+    shift: true
+  }
+  #start8 shift
+  {
+    name: "C8"
+    keyCode: 90
+    shift: true
+  }
+  {
+    name: "C#8"
+    keyCode: 88
+    shift: true
+  }
+  {
+    name: "D8"
+    keyCode: 67
+    shift: true
+  }
+  {
+    name: "D#8"
+    keyCode: 86
+    shift: true
+  }
+  {
+    name: "E8"
+    keyCode: 66
+    shift: true
+  }
+  {
+    name: "F8"
+    keyCode: 78
+    shift: true
+  }
+  {
+    name: "F#8"
+    keyCode: 77
+    shift: true
+  }
+  {
+    name: "G8"
+    keyCode: 188
+    shift: true
+  }
+  {
+    name: "G#8"
+    keyCode: 190
+    shift: true
+  }
+  {
+    name: "A8"
+    keyCode: 191
+    shift: true
+  }
+  {
+    name: "A#8"
+    keyCode: 187
+    shift: true
+  }
+  {
+    name: "B8"
+    keyCode: -1 #187
+    shift: true
+  }
+  #start9
+  {
+    name: "C9"
+    keyCode: -1
+  }
+  {
+    name: "C#9"
+    keyCode: -1
+  }
+  {
+    name: "D9"
+    keyCode: -1
+  }
+  {
+    name: "D#9"
+    keyCode: -1
+  }
+  {
+    name: "E9"
+    keyCode: -1
+  }
+  {
+    name: "F9"
+    keyCode: -1
+  }
+  {
+    name: "F#9"
+    keyCode: -1
+  }
+  {
+    name: "G9"
+    keyCode: -1
+  }
+  {
+    name: "G#9"
+    keyCode: -1
+  }
+  {
+    name: "A9"
+    keyCode: -1
+  }
+  {
+    name: "A#9"
+    keyCode: -1
+  }
+  {
+    name: "B9"
+    keyCode: -1
+  }
+]
