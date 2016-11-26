@@ -10,7 +10,7 @@
   "activationCommands": {
     "atom-workspace": "pseudo-synthesizer:toggle"
   },
-  "repository": "https://github.com/atom/pseudo-synthesizer",
+  "repository": "https://github.com/BlueSilverCat/pseudo-synthesizer.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.12.5 <2.0.0"
