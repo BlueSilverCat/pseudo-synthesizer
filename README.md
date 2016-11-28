@@ -1,19 +1,19 @@
 # pseudo-synthesizer package
 
-This package play music if you press key.
-On initial activate, this package extract zipped files to package folder (.../.atom/packages/pseudo-synthesizer/data).
+This package play music if you press key.  
+On initial activate, this package extract zipped files to package folder (.../.atom/packages/pseudo-synthesizer/data).  
 
 # Commands
 * `pseudo-synthesizer:toggle`  
   Activate/Deactivate this package.  
 * `pseudo-synthesizer:analyser`  
-  Open analyser.
+  Open analyser.  
 * `pseudo-synthesizer:startAutoPlay`  
-  Star auto play.
+  Start auto play.  
 * `pseudo-synthesizer:stopAutoPlay`  
-  Stop auto play.
+  Stop auto play.  
 * `pseudo-synthesizer:settings`  
-  Open this package settings.
+  Open this package settings.  
 
 # About keybind config file
 Keybind config file is CSON file.  
@@ -25,7 +25,7 @@ Properties of Object are name, keyCode, alt, ctrl and shift.
 * ctrl : optional. if use ctrl key, set this to true.
 * shift : optional. if use shift key, set this to true.
 
-e.g.
+e.g.  
 ```.js
 keyBinds: [
   {
@@ -48,12 +48,13 @@ keyBinds: [
 # About source config file
 Source config file is CSON file.  
 It contain String that named commonPath and array of Objects that named sourceFiles.  
-* commonPath : Specify the directory containing the sound source file. If commonPath is empty String (""), set this to default ( ".../.atom/packages/pseudo-synthesizer/data/source").
+* commonPath : Specify the directory containing the sound source file. If commonPath is empty String (""), set this to default ( ".../.atom/packages/pseudo-synthesizer/data/source").  
+
 Properties of Object are name, fileName.  
 * name : Define Name of sound to be played. This name is used to resolve keybind.
 * fineName : Specify the file name you want to play. Supported file formats are WAV, MP3, AAC, OGG and others.  
 
-e.g.
+e.g.  
 ```.js
 commonPath: ""
 sourceFiles: [
@@ -72,12 +73,13 @@ sourceFiles: [
 If set UseSourceFile to false, this package create sound from oscillator.  
 Musical note to be created are C, C#, D, D#, E, F, F#, G, G#, A, A# and B.  
 Octaves are -1 to 9.  
-For the above reasons, Name to resolve keybind are 'C-1', ... 'C4', 'C#4' ... 'B9'.
+For the above reasons, Name to resolve keybind are 'C-1', ... 'C4', 'C#4' ... 'B9'.  
 
 # About impluse response config file
 Impluse response config file is CSON file.  
 It contain String that named commonPath and array of Objects that named sourceFiles.  
-* commonPath : Specify the directory containing the impulse response file. If commonPath is empty String (""), set this to default ( ".../.atom/packages/pseudo-synthesizer/data/ir").
+* commonPath : Specify the directory containing the impulse response file. If commonPath is empty String (""), set this to default ( ".../.atom/packages/pseudo-synthesizer/data/ir").  
+
 Properties of Object are description, fileName.  
 * description : Description about this impluse response.
 * fineName : Specify the file name you want to use. Supported file formats are WAV, MP3, AAC, OGG and others.
@@ -95,6 +97,7 @@ impulseResponses: [
     description: "St. George's Episcopal Church far"
     fileName: "st_georges_far.ogg"
   }
+]
 ```
 
 # About auto play
