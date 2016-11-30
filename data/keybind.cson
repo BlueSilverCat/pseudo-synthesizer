@@ -293,249 +293,249 @@ keyBinds: [
     name: "B4"
     keyCode: -1 #193
   }
-  #start5 shift
+  #start5 shiftKey
   {
     name: "C5"
     keyCode: 192
-    shift: true
+    shiftKey: true
   }
   {
     name: "C#5"
     keyCode: 49
-    shift: true
+    shiftKey: true
   }
   {
     name: "D5"
     keyCode: 50
-    shift: true
+    shiftKey: true
   }
   {
     name: "D#5"
     keyCode: 51
-    shift: true
+    shiftKey: true
   }
   {
     name: "E5"
     keyCode: 52
-    shift: true
+    shiftKey: true
   }
   {
     name: "F5"
     keyCode: 53
-    shift: true
+    shiftKey: true
   }
   {
     name: "F#5"
     keyCode: 54
-    shift: true
+    shiftKey: true
   }
   {
     name: "G5"
     keyCode: 55
-    shift: true
+    shiftKey: true
   }
   {
     name: "G#5"
     keyCode: 56
-    shift: true
+    shiftKey: true
   }
   {
     name: "A5"
     keyCode: 57
-    shift: true
+    shiftKey: true
   }
   {
     name: "A#5"
     keyCode: 48
-    shift: true
+    shiftKey: true
   }
   {
     name: "B5"
     keyCode: 189
-    shift: true
+    shiftKey: true
   }
-  #start6 shift
+  #start6 shiftKey
   {
     name: "C6"
     keyCode: 81
-    shift: true
+    shiftKey: true
   }
   {
     name: "C#6"
     keyCode: 87
-    shift: true
+    shiftKey: true
   }
   {
     name: "D6"
     keyCode: 69
-    shift: true
+    shiftKey: true
   }
   {
     name: "D#6"
     keyCode: 82
-    shift: true
+    shiftKey: true
   }
   {
     name: "E6"
     keyCode: 84
-    shift: true
+    shiftKey: true
   }
   {
     name: "F6"
     keyCode: 89
-    shift: true
+    shiftKey: true
   }
   {
     name: "F#6"
     keyCode: 85
-    shift: true
+    shiftKey: true
   }
   {
     name: "G6"
     keyCode: 73
-    shift: true
+    shiftKey: true
   }
   {
     name: "G#6"
     keyCode: 79
-    shift: true
+    shiftKey: true
   }
   {
     name: "A6"
     keyCode: 80
-    shift: true
+    shiftKey: true
   }
   {
     name: "A#6"
     keyCode: 219
-    shift: true
+    shiftKey: true
   }
   {
     name: "B6"
     keyCode: 221
-    shift: true
+    shiftKey: true
   }
   #start7
   {
     name: "C7"
     keyCode: 65
-    shift: true
+    shiftKey: true
   }
   {
     name: "C#7"
     keyCode: 83
-    shift: true
+    shiftKey: true
   }
   {
     name: "D7"
     keyCode: 68
-    shift: true
+    shiftKey: true
   }
   {
     name: "D#7"
     keyCode: 70
-    shift: true
+    shiftKey: true
   }
   {
     name: "E7"
     keyCode: 71
-    shift: true
+    shiftKey: true
   }
   {
     name: "F7"
     keyCode: 72
-    shift: true
+    shiftKey: true
   }
   {
     name: "F#7"
     keyCode: 74
-    shift: true
+    shiftKey: true
   }
   {
     name: "G7"
     keyCode: 75
-    shift: true
+    shiftKey: true
   }
   {
     name: "G#7"
     keyCode: 76
-    shift: true
+    shiftKey: true
   }
   {
     name: "A7"
     keyCode: 186
-    shift: true
+    shiftKey: true
   }
   {
     name: "A#7"
     keyCode: 222
-    shift: true
+    shiftKey: true
   }
   {
     name: "B7"
     keyCode: 220
-    shift: true
+    shiftKey: true
   }
-  #start8 shift
+  #start8 shiftKey
   {
     name: "C8"
     keyCode: 90
-    shift: true
+    shiftKey: true
   }
   {
     name: "C#8"
     keyCode: 88
-    shift: true
+    shiftKey: true
   }
   {
     name: "D8"
     keyCode: 67
-    shift: true
+    shiftKey: true
   }
   {
     name: "D#8"
     keyCode: 86
-    shift: true
+    shiftKey: true
   }
   {
     name: "E8"
     keyCode: 66
-    shift: true
+    shiftKey: true
   }
   {
     name: "F8"
     keyCode: 78
-    shift: true
+    shiftKey: true
   }
   {
     name: "F#8"
     keyCode: 77
-    shift: true
+    shiftKey: true
   }
   {
     name: "G8"
     keyCode: 188
-    shift: true
+    shiftKey: true
   }
   {
     name: "G#8"
     keyCode: 190
-    shift: true
+    shiftKey: true
   }
   {
     name: "A8"
     keyCode: 191
-    shift: true
+    shiftKey: true
   }
   {
     name: "A#8"
     keyCode: 187
-    shift: true
+    shiftKey: true
   }
   {
     name: "B8"
     keyCode: -1 #187
-    shift: true
+    shiftKey: true
   }
   #start9
   {

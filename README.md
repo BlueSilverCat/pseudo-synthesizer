@@ -21,9 +21,9 @@ It contain array of Objects that named keyBinds.
 Properties of Object are name, keyCode, alt, ctrl and shift.  
 * name : Name of the sound to be played.  
 * keyCode : When the key specified by keyCode is pressed, play the sound specified by Name.
-* alt : optional. if use alt key, set this to true.
-* ctrl : optional. if use ctrl key, set this to true.
-* shift : optional. if use shift key, set this to true.
+* altKey : optional. if use alt key, set this to true.
+* ctrlKey : optional. if use ctrl key, set this to true.
+* shiftKey : optional. if use shift key, set this to true.
 
 e.g.  
 ```.js
@@ -31,16 +31,16 @@ keyBinds: [
   {
     name: "C1"
     keyCode: 192
-    alt: false
-    ctrl: false
-    shift: false
+    altKey: false
+    ctrlKey: false
+    shiftKey: false
   }
   {
     name: "C5"
     keyCode: 192
-    alt: false
-    ctrl: false
-    shift: true
+    altKey: false
+    ctrlKey: false
+    shiftKey: true
   }
 ]
 ```
@@ -72,8 +72,8 @@ sourceFiles: [
 ## About source Oscillator
 If set UseSourceFile to false, this package create sound from oscillator.  
 Musical note to be created are C, C#, D, D#, E, F, F#, G, G#, A, A# and B.  
-Octaves are -1 to 9.  
-For the above reasons, Name to resolve keybind are 'C-1', ... 'C4', 'C#4' ... 'B9'.  
+Octaves are no limit. (But audible range is about -2 to 10.)  
+For the above reasons, Name to resolve keybind are ..., 'C-1', ..., 'C4', 'C#4', ... 'B9', ... .  
 
 # About impluse response config file
 Impluse response config file is CSON file.  
