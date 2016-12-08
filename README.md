@@ -75,6 +75,26 @@ Musical note to be created are C, C#, D, D#, E, F, F#, G, G#, A, A# and B.
 Octaves are no limit. (But audible range is about -2 to 10.)  
 For the above reasons, Name to resolve keybind are ..., 'C-1', ..., 'C4', 'C#4', ... 'B9', ... .  
 
+# About SourceOscillatorCustomWaveFile
+SourceOscillatorCustomWaveFile are described pair of the cosine term(A term, real part) and sine term(B term, imaginary part) of the Fourier coefficient.  
+The first line represents the intensity of the fundamental frequency.  
+The next line represents the intensity of the second overtone.  
+The next next line represents the intensity of the third overtone. ...  
+Each value is a ratio to the whole.  
+e.g.
+```
+1 10
+2 9
+3 8
+4 7
+5 6
+6 5
+7 4
+8 3
+9 2
+10 1
+```
+
 # About impluse response config file
 Impluse response config file is CSON file.  
 It contain String that named commonPath and array of Objects that named sourceFiles.  
