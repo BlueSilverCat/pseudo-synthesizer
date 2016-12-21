@@ -1,3 +1,7 @@
+## 0.5.0 - Change auto play and default key bind
+* Change auto play.
+* Change default key bind.
+
 ## 0.4.0 - Add custome wave
 * Add custome wave.
 

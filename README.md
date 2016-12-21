@@ -123,7 +123,63 @@ impulseResponses: [
 # About auto play
 Playable charcters are alphanumeric characters and symbols.  
 This package converts characters to keycode, then play sound corresponding to keycode.  
+Continuous lines without blank lines will be played at the same time.
 
+## Flohwalzer score for english keybord.
+```
+$@
+
+n//$@n//$@n/c/z~~$@
+ &&   &&   & & ^^
+
+z~~$@z~~$@z~c~n//$@
+ ^^   ^^   ^ ^ &&
+
+_//$@_//$@_/W/R~~$@
+ &&   &&   & & ^^
+
+R~~$@R~~$@R~W~_//$@
+ ^^   ^^   ^ ^ &&
+
+n/z/n/z/nbnm,~~$@
+ & & & &     ^^
+
+,~c~,~c~,m,.///$@
+ ^ ^ ^ ^     &&
+
+n//$@n//$@n/c/z~~$@
+ &&   &&   & & ^^
+
+z~~$@z~~$@z~c~n//$@
+ ^^   ^^   ^ ^ &&
+
+n//$@n//$@n/c/z~~$@
+ &&   &&   & & ^^
+
+z~~$@z~~$@z~c~n//$@
+ ^^   ^^   ^ ^ &&
+
+_//$@_//$@_/W/R~~$@
+ &&   &&   & & ^^
+
+R~~$@R~~$@R~W~_//$@
+ ^^   ^^   ^ ^ &&
+
+n/z/n/z/nbnm,~~$@
+ & & & &     ^^
+
+,~c~,~c~,m,.///$@
+ ^ ^ ^ ^     &&
+
+n//$@n//$@n/c/z~~$@
+ &&   &&   & & ^^
+
+z~~$@z~~$@z~c~n//
+ ^^   ^^   ^ ^ &&
+
+/@!@#@ ~ / n
+&      ^ &
+```
 ---
 # Appendix
 ## Key codes
